@@ -29,10 +29,4 @@
 
 
     
-  ## 
- <div align="center"> 
-   
-  ![Snake animation](https://github.com/kevinveliz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
