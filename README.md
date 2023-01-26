@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
-- 🔭 I’m currently working on [KrugerStart](https://github.com/DaniCis/Recipes_Kruger)
+- 🔭 I’m currently working on [Recipes](https://github.com/DaniCis/Recipes_Kruger)
 
 - 💬 Ask me about **React, Redux, Babel, TailwindCss**
 
